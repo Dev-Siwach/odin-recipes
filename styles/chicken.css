@@ -50,3 +50,6 @@ li {
 .instructions {
     color: rgb(27, 32, 33);
 }
+.ul {
+    list-style-type: none;
+}
