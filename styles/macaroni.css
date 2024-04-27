@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(202, 210, 197);
+}
+.img{
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: auto;
+    border-radius: 50px;
+    border: 4px;
+    border-color: black;
+    border-style: outset;
+}
+.home {
+    display: block;
+    width: 80px;
+    height: auto;
+    margin: auto;
+}
+.main-heading {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(82, 121, 111);
+}
+.introduction {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+.recipe {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center; 
+    color: rgb(47, 62, 70);
+}
+.tertiory-heading {
+    font-size: x-large;
+    font-weight: 800;
+    color: rgb(53, 79, 82);
+}
+li {
+    list-style-type: none;
+}
