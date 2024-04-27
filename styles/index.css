@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-weight: bolder;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
+    font-size: xx-large;
 }
 li {
     padding-top: 5px;
@@ -17,12 +17,12 @@ li {
     color: rgb(92, 131, 116);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
-    font-size: small;
+    font-size: large;
 }
 .link.troll {
-    color: rgb(43, 153, 153);
-    font-weight: bold;
-    font-size: x-small;
+    display: block; 
+    margin-top: 38%;
+    color: rgb(43, 153, 153);   
+    font-weight: lighter;
     text-align: center;
-    padding-top: 24%;
 }
