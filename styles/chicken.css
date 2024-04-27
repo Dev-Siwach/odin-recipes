@@ -1,0 +1,52 @@
+body {
+    min-width: fit-content;
+    background-color: rgb(255, 217, 218);
+}
+.home {
+    display: block;
+    margin: auto;
+    height: 100px;
+    width: auto;
+}
+.chicken-img {
+    display: block;
+    height: 50%;
+    width: auto;
+    margin: auto;
+    border-radius: 50px;
+    border: 3px;
+    border-color: rgb(48, 52, 63);
+    border-style: outset;
+}
+h1 {
+    display: block;
+    font-size: 400%;
+    text-align: center;
+    color: rgb(48, 52, 63);
+}
+.introduction {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+}
+li {
+    padding-bottom: 10px    ;
+}
+.ingredients {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 180%;
+}
+.instructions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 180%; 
+}
+.heading-2 {
+    font-weight: bold;
+    text-align: center;
+    color: rgb(48, 52, 63);
+}
+.ingredients,
+.instructions {
+    color: rgb(27, 32, 33);
+}
