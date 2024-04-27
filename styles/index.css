@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(4, 13, 18, 0.85);
+}
+#main-heading {
+    color: rgb(95, 226, 178);
+    text-align: center;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+li {
+    padding-top: 5px;
+    text-align: center;
+    list-style-type: none;
+}
+.link {
+    color: rgb(92, 131, 116);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+}
+.link.troll {
+    color: rgb(43, 153, 153);
+    font-weight: bold;
+    font-size: x-small;
+    text-align: center;
+    padding-top: 24%;
+}
